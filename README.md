@@ -3,7 +3,7 @@
 Ao remover esse item, é enviado um DELETE para o servidor e atualizado o estado da lista com o item removido, sem nova requisição ao servidor.
 
 
-![](lista.react.gif)
+![](lista-react.gif)
 
 ## Instalação
 
